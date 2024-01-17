@@ -24,7 +24,7 @@ It is used to print text, pictures, two-dimensional code, bar code and other fun
 ## Installation  
 
 ```bash
-flutter pub add imin_printer
+flutter pub add imin_printer_plus
 ```
 
 
